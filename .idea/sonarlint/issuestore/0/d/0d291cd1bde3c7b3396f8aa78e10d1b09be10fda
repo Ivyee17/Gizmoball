@@ -1,39 +1,0 @@
-
-Esquid:S1125Ï"(Remove the literal "true" boolean value.(¡¤ºôÿÿÿÿÿ
-Fsquid:S1481¼")Remove this unused "olds" local variable.(Þ¦›žøÿÿÿÿ
-@squid:S1148×"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-Nsquid:S1948"7Make "buildingEventListener" transient or serializable.(áµ‚Ó
-hsquid:CommentedOutCodeLineÑ"<This block of commented-out lines of code should be removed.(©Øþêøÿÿÿÿ
-Esquid:S1125´"(Remove the literal "true" boolean value.(¡¤ºôÿÿÿÿÿ
-@squid:S1148¼"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
-tsquid:S3008"]Rename this field "WINDOW_UNIT_HEIGHT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Î‚×Ô
-Fsquid:S1481ö".Remove this unused "rectangle" local variable.(µßÓÅ
-U
-squid:S106§"9Replace this use of System.out or System.err by a logger.(ò›âÍûÿÿÿÿ
-Rsquid:S1948"6Make "runningEventListener" transient or serializable.(‰‘¤üûÿÿÿÿ
-™squid:S1186ý"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
-@squid:S1125²"(Remove the literal "true" boolean value.(‹ÿÝÍ
-Usquid:S1854¼"8Remove this useless assignment to local variable "olds".(Þ¦›žøÿÿÿÿ
-xsquid:S3008"\Rename this field "FRAMES_PER_SECOND" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯«ºùÿÿÿÿ
-Isquid:S1948"-Make "flipperList" transient or serializable.(þˆÎÀýÿÿÿÿ
-tsquid:S3008"XRename this field "SIZE_PER_UNIT" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(šÝ¡âùÿÿÿÿ
-Ysquid:S3878É"ADisambiguate this call by either casting as "Class" or "Class[]".(ˆ‚á
-Esquid:S1481—"(Remove this unused "has" local variable.(Ñ×šªÿÿÿÿÿ
-Psquid:S3878¯"8Remove this array creation and simply pass the elements.(Àô†
-™squid:S1186Ã"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç¨Î§
-Dsquid:S1125k"(Remove the literal "true" boolean value.(ëîª¢ýÿÿÿÿ
-isquid:S1192ÿ"LDefine a constant instead of duplicating this literal "Set movable" 3 times.(¯äšÄúÿÿÿÿ
-Hsquid:S3398d"1Move this method into "RunningModeEventListener".(Å£ÒÇ
-xsquid:S3008"\Rename this field "WINDOW_UNIT_WIDTH" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ý÷ºòÿÿÿÿÿ
-Psquid:S3878Ê"8Remove this array creation and simply pass the elements.(ÁùèÎ
-hsquid:CommentedOutCodeLineÕ"<This block of commented-out lines of code should be removed.(ð™Êãüÿÿÿÿ
-Usquid:S1854ö"=Remove this useless assignment to local variable "rectangle".(µßÓÅ
-Bsquid:S1948"&Make "ball" transient or serializable.(Šäöæùÿÿÿÿ
-Dsquid:S1948 ".Make "clickedGizmo" transient or serializable.(ÍÐéw
-osquid:S3776”"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(®î’×üÿÿÿÿ
-^squid:S3878®"ADisambiguate this call by either casting as "Class" or "Class[]".(ðÞ§óøÿÿÿÿ
-Fsquid:S1481ì".Remove this unused "rectangle" local variable.(µßÓÅ
-Usquid:S1854ì"=Remove this useless assignment to local variable "rectangle".(µßÓÅ
-P
-squid:S106Ã"9Replace this use of System.out or System.err by a logger.(¨äØÔ
-Bsquid:S1948"+Make "gizmoList" transient or serializable.(§ÿÂº
