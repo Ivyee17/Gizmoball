@@ -1,0 +1,21 @@
+
+Msquid:UselessImportCheck
+")Remove this unused import 'java.io.File'.(†Ğ¥Å
+Qsquid:S2209`"5Change this instance-reference to a static reference.(íëâõşÿÿÿÿ
+Lsquid:S22096"5Change this instance-reference to a static reference.(š»ûÛ
+Usquid:UselessImportCheck"1Remove this unused import 'java.awt.geom.Line2D'.(ìôÆÆ
+Qsquid:S22095"5Change this instance-reference to a static reference.(õÀßˆùÿÿÿÿ
+]squid:UselessImportCheck"4Remove this unused import 'java.awt.geom.Ellipse2D'.(ÖÀ÷‘úÿÿÿÿ
+Vsquid:UselessImportCheck"2Remove this unused import 'javax.imageio.ImageIO'.(‘çÔû
+Lsquid:S2209c"5Change this instance-reference to a static reference.(õ‹
+Wsquid:HiddenFieldCheck6"5Rename "y" which hides the field declared at line 18.(š»ûÛ
+\squid:HiddenFieldCheck5"5Rename "x" which hides the field declared at line 17.(õÀßˆùÿÿÿÿ
+Isquid:S1068"-Remove this unused "oldDegree" private field.(ò“Ÿÿÿÿÿÿ
+Lsquid:S22096"5Change this instance-reference to a static reference.(š»ûÛ
+Lsquid:S2209l"5Change this instance-reference to a static reference.(õ‹
+Qsquid:S22095"5Change this instance-reference to a static reference.(õÀßˆùÿÿÿÿ
+Lsquid:S2209,"5Change this instance-reference to a static reference.(»¤¡
+Qsquid:S2209k"5Change this instance-reference to a static reference.(³áÓ¡øÿÿÿÿ
+Qsquid:S22095"5Change this instance-reference to a static reference.(õÀßˆùÿÿÿÿ
+Lsquid:S22096"5Change this instance-reference to a static reference.(š»ûÛ
+bsquid:UselessImportCheck	"9Remove this unused import 'java.awt.image.BufferedImage'.(×íĞ‡şÿÿÿÿ
